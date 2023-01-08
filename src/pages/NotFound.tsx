@@ -13,7 +13,7 @@ const NotFound: FC = () => {
   return (
     <>
       <Helmet>
-        <title>Error: Not Found | RVM App</title>
+        <title>Error: Not Found | React_Ts_ Mui App</title>
       </Helmet>
       <Box
         sx={{

@@ -13,7 +13,7 @@ const ServerError: FC = () => {
   return (
     <>
       <Helmet>
-        <title>Error: Server Error | RVM App</title>
+        <title>Error: Server Error | React_Ts_ Mui App</title>
       </Helmet>
       <Box
         sx={{

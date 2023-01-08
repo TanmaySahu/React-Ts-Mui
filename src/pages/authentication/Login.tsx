@@ -28,7 +28,7 @@ const Login: FC = () => {
   return (
     <>
       <Helmet>
-        <title>Login | RVM App</title>
+        <title>Login | React_Ts_ Mui App</title>
       </Helmet>
       <Box
         sx={{

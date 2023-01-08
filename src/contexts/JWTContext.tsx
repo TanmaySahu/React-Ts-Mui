@@ -138,7 +138,7 @@ export const AuthProvider: FC<AuthProviderProps> = (props) => {
           //const { user } = response.data;
           const user = {
             id: '1',
-            email: 'rvm.admin@yopmail.com',
+            email: 'react_ts_mui.admin@yopmail.com',
             avatar: '',
             name: 'Admin'
           };

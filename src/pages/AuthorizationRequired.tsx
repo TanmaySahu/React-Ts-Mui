@@ -13,7 +13,7 @@ const AuthorizationRequired: FC = () => {
   return (
     <>
       <Helmet>
-        <title>Error: Authorization Required | RVM App</title>
+        <title>Error: Authorization Required | React_Ts_ Mui App</title>
       </Helmet>
       <Box
         sx={{

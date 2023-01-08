@@ -27,7 +27,7 @@ const PasswordRecovery: FC = () => {
   return (
     <>
       <Helmet>
-        <title>Password Recovery | RVM App</title>
+        <title>Password Recovery | React_Ts_ Mui App</title>
       </Helmet>
       <Box
         sx={{

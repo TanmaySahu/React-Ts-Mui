@@ -29,7 +29,7 @@ const PasswordReset: FC = () => {
   return (
     <>
       <Helmet>
-        <title>Password Reset | RVM App</title>
+        <title>Password Reset | React_Ts_ Mui App</title>
       </Helmet>
       <Box
         sx={{

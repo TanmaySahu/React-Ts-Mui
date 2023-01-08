@@ -98,7 +98,7 @@ const Footer: FC = (props) => (
               color="textSecondary"
               variant="caption"
             >
-              RVM App User
+              React_Ts_ Mui App User
               <br />
               support@devias.io
             </Typography>

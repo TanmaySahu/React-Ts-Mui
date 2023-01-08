@@ -28,7 +28,7 @@ const Register: FC = () => {
   return (
     <>
       <Helmet>
-        <title>Register | RVM App</title>
+        <title>Register | React_Ts_ Mui App</title>
       </Helmet>
       <Box
         sx={{

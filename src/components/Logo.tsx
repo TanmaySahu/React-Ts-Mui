@@ -17,7 +17,7 @@ const Logo: FC<LogoProps> = (props) => (
     width="52"
     {...props}
   >
-    <title>RVM APP</title>
+    <title>React_Ts_ Mui APP</title>
     <defs>
       <filter id="filter">
         <feColorMatrix
